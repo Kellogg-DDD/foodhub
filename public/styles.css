@@ -1,0 +1,31 @@
+.body-font { 
+  font-family: "Montserrat" !important;
+}
+
+.navbar-font {
+  font-family: "Passion One";
+}
+
+.navbar-dark .navbar-brand {
+  color: #ffffff;
+}
+
+.who-delivers-background {
+  background: url(/assets/images/main-hero.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.py-180 { 
+  padding-top: 180px;
+  padding-bottom: 180px
+}
+
+.frontpage-image {
+  width: 200px;
+  height: 200px;
+}
+
+.soundbites-image { 
+  width: 50px;
+  height: 50px; 
+}
